@@ -5,4 +5,4 @@ for i in $@
 do
    sum=$(($i + $sum))
 done
-echo $sum 
+echo $sum "wow, that is a big numebr" 

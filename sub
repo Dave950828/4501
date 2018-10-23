@@ -1,0 +1,3 @@
+# do substraction well
+echo $(($1-$2))
+
